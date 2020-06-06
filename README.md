@@ -1,5 +1,5 @@
 # java_water_sales
-
+Water Sales Program with using SQLite
 # Project Display Image
 <p>
   
