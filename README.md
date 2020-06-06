@@ -3,8 +3,8 @@
 # Project Display Image
 <p>
   
-<a href="https://raw.githubusercontent.com/bayrakyunus/java_water_sales/master/screenshots/watersales1.png" target="_blank">
-<img src="https://raw.githubusercontent.com/bayrakyunus/java_water_sales/master/screenshots/watersales1.png" width="300" style="max-width:100%;"></a>
+<a href="https://github.com/bayrakyunus/java_water_sales/blob/master/screenshots/watersales1.png" target="_blank">
+<img src="https://github.com/bayrakyunus/java_water_sales/blob/master/screenshots/watersales1.png" width="300" style="max-width:100%;"></a>
 
 <a href="https://https://github.com/bayrakyunus/java_water_sales/blob/master/screenshots/watersales2.png" target="_blank">
 <img src="https://https://github.com/bayrakyunus/java_water_sales/blob/master/screenshots/watersales2.png" width="300" style="max-width:100%;"></a>
