@@ -1,4 +1,4 @@
-# java_water_sales
+# Java Water Sales
 Water Sales Program with using SQLite
 # Project Display Image
 <p>
